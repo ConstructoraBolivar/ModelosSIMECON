@@ -15,7 +15,7 @@
       <SSIS:Project SSIS:ProtectionLevel="EncryptSensitiveWithUserKey" xmlns:SSIS="www.microsoft.com/SqlServer/SSIS">
         <SSIS:Properties>
           <SSIS:Property SSIS:Name="ID">{0eefe573-a677-4a4d-b518-ca62c9fa2140}</SSIS:Property>
-          <SSIS:Property SSIS:Name="Name">SeguimientoActividades</SSIS:Property>
+          <SSIS:Property SSIS:Name="Name">Simecon</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionBuild">0</SSIS:Property>
@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">CONTIGEN-CUBOS</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAz1iJOyhR5UyHH86NzBX3LAAAAAACAAAAAAADZgAAwAAAABAAAAA8fT2E7eUSpos4wf8z1wT0AAAAAASAAACgAAAAEAAAAHLHEFL4898x4gRMg9GhDI2IAAAAYe8Fi5zvOhlYPU+eRCOjIs7K5PPgMUXAlxb5eVMYV9tqxa2YD0xsynjcR3AcuWjBZeAVRkIO2DWaraRamu5Gnrt3fM9uk/cfM1QA/fucEd49GplPUnakiTQnuCc+aHn4ioDnHaW/Wt+twqplf0WkYpLO1NvFqDlwe5NSGcr4GlxTRJEYbhfkIRQAAAA+0OC3I8M8C7BcWTaIzkLVqVKZ1Q==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAz1iJOyhR5UyHH86NzBX3LAAAAAACAAAAAAADZgAAwAAAABAAAAAvcP5RmH5nS/uf1JprX+iIAAAAAASAAACgAAAAEAAAAGLEZ+x2+Dxg/fJu05Z9peyIAAAAHlqNmx4FOAPTWusa3LKzThSb/I4aHBRp/5cb07pTCIZoYQxwdXvyYeeOFItABNQkmk3J9kRvngb4EYbA/6l4t+ZZuJIRxfoksUwmpUgzV/RC5MxC86E0fK0eJLfz7NxsCGZDq9a5/gOuPEFyXbpB+56hNMlIbLi7Qf7+ErgiC8w8/QmZU5osGxQAAAD+fLBjAoPP1Z5mVONxCFTvo6tAPg==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
