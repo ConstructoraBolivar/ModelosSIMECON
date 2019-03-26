@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="3/26/2019 4:14:53 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="CONTIGEN-CUBOS"
+  DTS:CreatorName="CBOLIVAR\esteban.valencia"
+  DTS:DTSID="{6A9F216E-4D20-41B6-883B-4C27EF5C9A5B}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.1100.123"
+  DTS:LocaleID="9226"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{75DDD83F-B6CC-471C-AEDC-8897D6CE8AF9}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
